@@ -3,6 +3,24 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/* Header */
+.header-bg{
+    background: #264653;
+
+}
+.honda-subtitle{
+    font-size: 14px;
+}
+.honda-title{
+    font-size: 48px;
+}
+.honda-button-color {
+    background-color: #E76F51;
+}
+.honda-color{
+    color:#E76F51
+}
+
 /* Image grayscale */
 
 .grayscale{
