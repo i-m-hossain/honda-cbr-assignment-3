@@ -20,7 +20,13 @@ body{
 .honda-color{
     color:#E76F51
 }
-
+ .space-y{
+     margin-top:160px;
+     margin-bottom: 160px;
+ }
+ .space-title{
+     margin-bottom: 45px;
+ }
 /* Image grayscale */
 
 .grayscale{
